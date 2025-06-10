@@ -1,6 +1,1 @@
-- 👋 Hi, I’m Nhan, my age is 18
-- 👀 I’m interested in coding and playing sports
-- 🌱 I’m currently studying at VKU
-- ⚡ Fun fact: I am very very love Football ^^
-- And why are you reading my profile now ??
-- Contact me for your reason =))
+
